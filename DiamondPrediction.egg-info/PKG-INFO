@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DiamondPrediction
+Version: 0.0.1
+Author: simmi
+Author-email: simran11singh2004@gmail.com
+Requires-Dist: python
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: seaborn
